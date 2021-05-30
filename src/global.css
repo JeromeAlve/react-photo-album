@@ -1,0 +1,13 @@
+#col {
+    width: 100vw;
+    position: relative;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.figure-caption{
+    font-family: "sans-serif";
+    font-weight: normal;
+    color: tomato;
+}
