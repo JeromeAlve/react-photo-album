@@ -12,6 +12,8 @@ To get the frontend running locally, in the root folder:
 To run tests:
 - `npm test` 
 
+Developed using Node v12.18.3 and npm version 6.14.6
+
 
 ## Assumptions and Trade-Offs
 
